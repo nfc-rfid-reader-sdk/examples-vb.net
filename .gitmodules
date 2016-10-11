@@ -1,0 +1,3 @@
+[submodule "indoor_display_example/bin/x86/Release/lib"]
+	path = indoor_display_example/bin/x86/Release/lib
+	url = https://git.d-logic.net/led-display-rgb-sdk/display-rgb-8x4-lib.git
